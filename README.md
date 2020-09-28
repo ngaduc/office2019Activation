@@ -1,6 +1,8 @@
 # office2019Activation
 Activation Office 2019 Volume
 
+by Nguyen Anh Duc (tui việt hóa lên hoy :)))
+
 ## How to use
 
 Extract the ZIP file (or SFX)
