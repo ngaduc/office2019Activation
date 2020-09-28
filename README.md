@@ -7,6 +7,6 @@ by Nguyen Anh Duc (tui việt hóa lên hoy :)))
 
 Extract the ZIP file (or SFX)
 
-Run the .cmd file on First folder<br>
+Run the Activation.cmd file in First folder<br>
 <img src="https://raw.githubusercontent.com/ngaduc/office2019Activation/master/image01.png"><br>
 Then run KMS_VL_ALL.cmd in Second folder
