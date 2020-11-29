@@ -108,7 +108,7 @@ echo          FB: ngaduc.byduc - YT: redpervn
 echo.
 echo ===================================================
 echo.
-echo Bat dau kich hoat office :>>
+echo Bat dau kich hoat office :))
 echo.
 echo ===================================================
 echo Dang kiem tra thong tin kich hoat office!
